@@ -11,10 +11,14 @@
             "id": "181d1e1b2dc40fbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -176,10 +180,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "1a1f71f2e4043b10",
+  "active": "ef38961cd73f0c49",
   "lastOpenFiles": [
+    "OMI_Relay/Test - say hi.md",
+    "OMI_Relay",
     "KnowledgeBase/TestingRelay.md",
-    "Welcome.md",
-    "KnowledgeBase"
+    "KnowledgeBase",
+    "LICENSE",
+    "Welcome.md"
   ]
 }

@@ -5,9 +5,9 @@
   },
   "sharedFolders": [
     {
-      "guid": "7a1f1d96-5617-4c48-a6f4-d5ccddf2dd21",
-      "path": "KnowledgeBase",
-      "relay": "29e005fe-e782-417d-b463-cb38504812ad"
+      "guid": "50683f86-30dd-4de4-a02f-e24bd40a37fa",
+      "path": "OMI_Relay",
+      "relay": "1f64db17-630a-4ea6-9e12-8d9672abc363"
     }
   ],
   "enableUpdateYDocFromDiskBuffer": false,
