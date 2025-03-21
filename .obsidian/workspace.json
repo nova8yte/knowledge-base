@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: community-plugins.json"
             }
           }
         ]
@@ -142,17 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "1a1f71f2e4043b10",
+            "id": "cf62dcbcbeda524a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,12 +179,17 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ef38961cd73f0c49",
+  "active": "181d1e1b2dc40fbe",
   "lastOpenFiles": [
+    "Aleksandra/TestingRelay.md",
+    "Vav1st/This is Vav1st folder.md",
+    "Shared/This is a Shared folder..md",
     "OMI_Relay/Test - say hi.md",
+    "Shared",
+    "Vav1st",
+    "KnowledgeBaseInformation",
     "OMI_Relay",
-    "KnowledgeBase/TestingRelay.md",
-    "KnowledgeBase",
+    "Aleksandra",
     "LICENSE",
     "Welcome.md"
   ]
