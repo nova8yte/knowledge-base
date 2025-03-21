@@ -1,0 +1,27 @@
+{
+  "release": {
+    "channel": "stable",
+    "automaticUpdates": false
+  },
+  "sharedFolders": [
+    {
+      "guid": "7a1f1d96-5617-4c48-a6f4-d5ccddf2dd21",
+      "path": "KnowledgeBase",
+      "relay": "29e005fe-e782-417d-b463-cb38504812ad"
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableDebugFileTag": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "enableAutomaticUpdatesOption": false,
+  "debugging": false
+}
