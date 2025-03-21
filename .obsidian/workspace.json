@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a021e8e3a593207a",
+        "id": "b2f3d699a34acb80",
         "type": "tabs",
         "children": [
           {
-            "id": "c653eaa9fd00a479",
+            "id": "181d1e1b2dc40fbe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3ec25e31afe1c144",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa2d19a91db18718",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
